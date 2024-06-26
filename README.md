@@ -1,1 +1,1 @@
-# django-project
+# Django Project "Blog"
